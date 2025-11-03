@@ -1,2 +1,2 @@
 # Borrow-Watch
-Borrow Watch is a notifer for books within internet archive it alerts you with a notification sound and a small banner in the top right of your screen to show the book is available currently incomplete project.
+Borrow Watch is a notifer for books within internet archive it alerts you with a notification sound and a small banner in the top right of your screen to show the book is available currently incomplete project. I plan to in the near future add the notification sound as an edited version of this Calling_Bell_02.wav by RSilveira_88 -- https://freesound.org/s/216306/ -- License: Attribution 4.0. I hope this suffices as credits I haven't done that before if I'm supposed to credit them elsewhere e.g in the source code please let me know.
